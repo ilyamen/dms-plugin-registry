@@ -1,0 +1,12 @@
+{
+    "id": "albumCover",
+    "name": "Album Cover",
+    "capabilities": ["desktop-widget"],
+    "category": "media",
+    "repo": "https://github.com/ilyamen/dms-album-cover",
+    "author": "ilyamen",
+    "description": "Square album-cover desktop widget with playback controls; a small browser extension supplies full-size covers from web players such as YouTube Music and Yandex Music",
+    "compositors": ["any"],
+    "distro": ["any"],
+    "requires_dms": ">=1.6.0"
+}

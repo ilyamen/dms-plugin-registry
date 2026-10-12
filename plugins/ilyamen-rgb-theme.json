@@ -1,0 +1,13 @@
+{
+    "id": "rgbTheme",
+    "name": "RGB Theme",
+    "capabilities": ["daemon"],
+    "category": "appearance",
+    "repo": "https://github.com/ilyamen/dms-rgb-theme",
+    "author": "ilyamen",
+    "description": "Paint the PC's RGB lighting in the accent color of the DMS theme through OpenRGB, so fans and strips follow the wallpaper",
+    "dependencies": ["openrgb"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "requires_dms": ">=1.6.0"
+}

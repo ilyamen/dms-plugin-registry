@@ -1,0 +1,12 @@
+{
+    "id": "hwMonitor",
+    "name": "Hardware Monitor",
+    "capabilities": ["desktop-widget"],
+    "category": "monitoring",
+    "repo": "https://github.com/ilyamen/dms-hw-monitor",
+    "author": "ilyamen",
+    "description": "Desktop widget with CPU, GPU, RAM and VRAM load graphs and every temperature in one row: CPU, GPU edge and hotspot, VRAM and SSD",
+    "compositors": ["any"],
+    "distro": ["any"],
+    "requires_dms": ">=1.6.0"
+}

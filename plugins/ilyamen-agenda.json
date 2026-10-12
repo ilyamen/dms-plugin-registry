@@ -1,0 +1,13 @@
+{
+    "id": "dcalAgenda",
+    "name": "Agenda",
+    "capabilities": ["desktop-widget"],
+    "category": "productivity",
+    "repo": "https://github.com/ilyamen/dms-agenda",
+    "author": "ilyamen",
+    "description": "Desktop widget with upcoming events and Google Tasks-style task lists from DankCalendar (dcal): add, complete and reopen tasks, filter calendars, sync on demand",
+    "dependencies": ["dcal"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "requires_dms": ">=1.6.0"
+}
