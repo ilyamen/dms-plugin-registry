@@ -21,6 +21,7 @@ The plugins then show up in Browse next to the official ones.
 | [Agenda](https://github.com/ilyamen/dms-agenda) | Desktop widget with events and Google Tasks-style task lists from DankCalendar |
 | [Hardware Monitor](https://github.com/ilyamen/dms-hw-monitor) | Desktop widget with CPU, GPU, RAM and VRAM load and every temperature in one row |
 | [Album Cover](https://github.com/ilyamen/dms-album-cover) | Album-cover desktop widget with full-size covers from web players |
+| [Headphones](https://github.com/ilyamen/dms-headphones) | Control Bluetooth headphones (UGREEN HiTune Max5, Galaxy Buds3) from the Control Center: noise cancelling, EQ, game mode, LDAC, gestures |
 
 ## Adding a plugin
 

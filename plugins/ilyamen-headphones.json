@@ -1,0 +1,13 @@
+{
+    "id": "headphones",
+    "name": "Headphones",
+    "capabilities": ["control-center", "dankbar-widget"],
+    "category": "system",
+    "repo": "https://github.com/ilyamen/dms-headphones",
+    "author": "ilyamen",
+    "description": "Control Bluetooth headphones from the Control Center: noise cancelling, equalizer, game mode, LDAC and touch controls, with battery levels and the live codec. Supports UGREEN HiTune Max5 and Samsung Galaxy Buds3",
+    "dependencies": ["python3"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "requires_dms": ">=1.6.3"
+}
