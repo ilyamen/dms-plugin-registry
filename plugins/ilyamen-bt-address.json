@@ -1,0 +1,13 @@
+{
+    "id": "btAddress",
+    "name": "Bluetooth Address",
+    "capabilities": ["daemon"],
+    "category": "system",
+    "repo": "https://github.com/ilyamen/dms-bt-address",
+    "author": "ilyamen",
+    "description": "Give the Bluetooth adapter an address of your choice and keep it across power cycles, suspend and firmware reloads, so a dual-boot system stops losing pairings to the other OS",
+    "dependencies": ["python3", "polkit"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "requires_dms": ">=1.6.0"
+}
