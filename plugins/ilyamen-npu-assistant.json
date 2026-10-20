@@ -1,0 +1,13 @@
+{
+    "id": "npuAssistant",
+    "name": "NPU Assistant",
+    "capabilities": ["launcher", "daemon"],
+    "category": "utilities",
+    "repo": "https://github.com/ilyamen/dms-npu-assistant",
+    "author": "ilyamen",
+    "description": "Local AI assistant on the Intel NPU: answers in the launcher, a chat slideout with history, and a ⚡ CPU boost when the computer is idle",
+    "dependencies": ["python3", "curl", "wl-clipboard", "openvino-genai"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "requires_dms": ">=1.6.3"
+}
