@@ -9,5 +9,5 @@
     "dependencies": ["python3", "polkit"],
     "compositors": ["any"],
     "distro": ["any"],
-    "requires_dms": ">=1.6.0"
+    "requires_dms": ">=2.0.0"
 }
