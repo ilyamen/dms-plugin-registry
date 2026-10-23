@@ -8,5 +8,5 @@
     "description": "Square album-cover desktop widget with playback controls; a small browser extension supplies full-size covers from web players such as YouTube Music and Yandex Music",
     "compositors": ["any"],
     "distro": ["any"],
-    "requires_dms": ">=1.6.0"
+    "requires_dms": ">=2.0.0"
 }
