@@ -5,7 +5,7 @@
     "category": "system",
     "repo": "https://github.com/ilyamen/dms-dual-boot",
     "author": "ilyamen",
-    "description": "Reboot into Windows from the power menu through EFI BootNext, so BitLocker doesn't ask for the recovery key, or hibernate first and come back to the same session. Plus a button for the UEFI setup",
+    "description": "Reboot into Windows from the power menu or a GRUB entry through EFI BootNext, so BitLocker doesn't ask for the recovery key, or hibernate first and come back to the same session. Keeps Linux first in the boot order, plus a button for the UEFI setup",
     "dependencies": ["efibootmgr", "polkit"],
     "compositors": ["any"],
     "distro": ["any"],

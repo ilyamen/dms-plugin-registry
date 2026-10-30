@@ -1,0 +1,13 @@
+{
+    "id": "grubTheme",
+    "name": "GRUB Theme",
+    "capabilities": ["daemon"],
+    "category": "appearance",
+    "repo": "https://github.com/ilyamen/dms-grub-theme",
+    "author": "ilyamen",
+    "description": "Paint the GRUB boot menu in the Material You colors DMS takes from the wallpaper, and repaint it every time the wallpaper changes. Fits ultrawide screens the firmware can't drive at full size",
+    "dependencies": ["grub", "python3-pil", "polkit"],
+    "compositors": ["any"],
+    "distro": ["debian", "ubuntu"],
+    "requires_dms": ">=2.0.0"
+}
