@@ -23,6 +23,7 @@ The plugins then show up in Browse next to the official ones.
 | [Album Cover](https://github.com/ilyamen/dms-album-cover) | Album-cover desktop widget with full-size covers from web players |
 | [Headphones](https://github.com/ilyamen/dms-headphones) | Control Bluetooth headphones (UGREEN HiTune Max5, Galaxy Buds3) from the Control Center: noise cancelling, EQ, game mode, LDAC, gestures |
 | [NPU Assistant](https://github.com/ilyamen/dms-npu-assistant) | Local AI assistant on the Intel NPU: answers in the launcher, a chat with history, and a ⚡ CPU boost when the computer is idle |
+| [Dual Boot](https://github.com/ilyamen/dms-dual-boot) | Reboot into Windows from the power menu without BitLocker asking for the recovery key, or hibernate first and come back to the same session |
 
 ## Adding a plugin
 

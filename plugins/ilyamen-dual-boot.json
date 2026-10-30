@@ -1,0 +1,13 @@
+{
+    "id": "dualBoot",
+    "name": "Dual Boot",
+    "capabilities": ["daemon"],
+    "category": "system",
+    "repo": "https://github.com/ilyamen/dms-dual-boot",
+    "author": "ilyamen",
+    "description": "Reboot into Windows from the power menu through EFI BootNext, so BitLocker doesn't ask for the recovery key, or hibernate first and come back to the same session. Plus a button for the UEFI setup",
+    "dependencies": ["efibootmgr", "polkit"],
+    "compositors": ["any"],
+    "distro": ["any"],
+    "requires_dms": ">=2.0.0"
+}
