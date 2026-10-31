@@ -5,7 +5,7 @@
     "category": "utilities",
     "repo": "https://github.com/ilyamen/dms-npu-assistant",
     "author": "ilyamen",
-    "description": "Local AI assistant on the Intel NPU: answers in the launcher, a chat slideout with history, and a ⚡ CPU boost when the computer is idle",
+    "description": "Local AI assistant on the Intel NPU: answers in the launcher, a chat slideout with history that hides to a screen-edge tab, and a ⚡ CPU boost when the computer is idle",
     "dependencies": ["python3", "curl", "wl-clipboard", "openvino-genai"],
     "compositors": ["any"],
     "distro": ["any"],
